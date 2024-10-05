@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DangKy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DangNhap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FormQuanLyDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTraCuuHocSinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTraCuuTK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTrangChuAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTrangChuGiaoVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTrangChuHocSinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTrangHeThong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NhapDiem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyDayHoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyGiaoVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyHocSinh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyKhoaHoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyLop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyMonHoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuanLyTaiKhoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Quenmatkhau.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="TaiKhoan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="XemDiem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="XemThongTinHocSinh.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="XemThongTinLop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="XemThongTinMonHoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="XemThongTinMonHocHS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

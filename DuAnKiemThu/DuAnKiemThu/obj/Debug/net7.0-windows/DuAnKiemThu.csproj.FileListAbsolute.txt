@@ -1,0 +1,195 @@
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.exe
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.deps.json
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.runtimeconfig.json
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.dll
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.pdb
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.dll
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\refint\DuAnKiemThu.dll
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.pdb
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\ref\DuAnKiemThu.dll
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangHeThong.resources
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.DangNhap.resources
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.Quenmatkhau.resources
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormQuanLyDangNhap.resources
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.DangKy.resources
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuAdmin.resources
+C:\Users\ADMIN\Downloads\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuSinhVien.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.exe
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.deps.json
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.runtimeconfig.json
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.dll
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.pdb
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.DangKy.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.DangNhap.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormChucNangHocSinh.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormQuanLyDangNhap.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuAdmin.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuGiaoVien.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuHocSinh.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangHeThong.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.Properties.Resources.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyDiem.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyMonHoc.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.Quenmatkhau.resources
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.GenerateResource.cache
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.AssemblyInfoInputs.cache
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.AssemblyInfo.cs
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.CoreCompileInputs.cache
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.dll
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\refint\DuAnKiemThu.dll
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.pdb
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.genruntimeconfig.cache
+D:\Chua_phan_loai\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\ref\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.exe
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.deps.json
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.runtimeconfig.json
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.pdb
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.DangKy.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.DangNhap.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormQuanLyDangNhap.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuAdmin.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuGiaoVien.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangHeThong.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.NhapDiem.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.Properties.Resources.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyDayHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.Quenmatkhau.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemDiem.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.GenerateResource.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.AssemblyInfoInputs.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.AssemblyInfo.cs
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.CoreCompileInputs.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\refint\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.pdb
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.genruntimeconfig.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\ref\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyGiaoVien.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyLop.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyMonHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyTaiKhoan.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinLop.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinMonHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.TaiKhoan.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinMonHocHS.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.AssemblyReference.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiem.D2EB7266.Up2Date
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTraCuuTK.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyKhoaHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\Kiem_thu\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTraCuuHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.exe
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.deps.json
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.runtimeconfig.json
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.pdb
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.AssemblyReference.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.DangKy.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.DangNhap.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormQuanLyDangNhap.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTraCuuHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTraCuuTK.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuAdmin.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuGiaoVien.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangHeThong.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.NhapDiem.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.Properties.Resources.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyDayHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyGiaoVien.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyKhoaHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyLop.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyMonHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyTaiKhoan.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.Quenmatkhau.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.TaiKhoan.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemDiem.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinLop.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinMonHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinMonHocHS.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.GenerateResource.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.AssemblyInfoInputs.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.AssemblyInfo.cs
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.CoreCompileInputs.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiem.D2EB7266.Up2Date
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\refint\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.pdb
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.genruntimeconfig.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\ref\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.exe
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.deps.json
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.runtimeconfig.json
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\DuAnKiemThu.pdb
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.AssemblyReference.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.DangKy.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.DangNhap.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormQuanLyDangNhap.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTraCuuHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTraCuuTK.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuAdmin.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuGiaoVien.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangChuHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.FormTrangHeThong.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.NhapDiem.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.Properties.Resources.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyDayHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyGiaoVien.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyKhoaHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyLop.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyMonHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.QuanLyTaiKhoan.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.Quenmatkhau.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.TaiKhoan.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemDiem.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinHocSinh.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinLop.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinMonHoc.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.XemThongTinMonHocHS.resources
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.GenerateResource.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.AssemblyInfoInputs.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.AssemblyInfo.cs
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.csproj.CoreCompileInputs.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiem.D2EB7266.Up2Date
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\refint\DuAnKiemThu.dll
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.pdb
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\DuAnKiemThu.genruntimeconfig.cache
+D:\Tai_Lieu_Hoc_Tap\Tai_lieu\Hoc_ky_7\GD1_Kiem_thu_va_DBCLPM\Day git\DuAnKiemThu\DuAnKiemThu\obj\Debug\net7.0-windows\ref\DuAnKiemThu.dll
