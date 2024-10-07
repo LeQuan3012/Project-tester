@@ -43,29 +43,12 @@
             tableLayoutPanel2 = new TableLayoutPanel();
             dgvdayhoc = new DataGridView();
             tableLayoutPanel3 = new TableLayoutPanel();
-            tableLayoutPanel10 = new TableLayoutPanel();
-            panel15 = new Panel();
-            label14 = new Label();
-            cbnamhocdayhoc = new ComboBox();
-            tableLayoutPanel9 = new TableLayoutPanel();
-            panel13 = new Panel();
-            label16 = new Label();
-            label12 = new Label();
-            cbhockydayhoc = new ComboBox();
-            tableLayoutPanel8 = new TableLayoutPanel();
-            panel11 = new Panel();
-            label10 = new Label();
-            cblopdayhoc = new ComboBox();
+            panel7 = new Panel();
+            lbloilop = new Label();
             tableLayoutPanel4 = new TableLayoutPanel();
             panel3 = new Panel();
             label2 = new Label();
             cbmamonhocdayhoc = new ComboBox();
-            panel7 = new Panel();
-            lbloilop = new Label();
-            panel14 = new Panel();
-            lbloihocky = new Label();
-            panel16 = new Panel();
-            lbloinamhoc = new Label();
             tableLayoutPanel7 = new TableLayoutPanel();
             panel9 = new Panel();
             label8 = new Label();
@@ -81,6 +64,8 @@
             label3 = new Label();
             label4 = new Label();
             txttenmonhocdayhoc = new TextBox();
+            panel4 = new Panel();
+            lbloimagiaovien = new Label();
             tableLayoutPanel11 = new TableLayoutPanel();
             panel17 = new Panel();
             btnThemDayHoc = new Button();
@@ -88,8 +73,23 @@
             btnSuaDayHoc = new Button();
             panel19 = new Panel();
             btnXoaDayHoc = new Button();
-            panel4 = new Panel();
-            lbloimagiaovien = new Label();
+            panel16 = new Panel();
+            lbloinamhoc = new Label();
+            tableLayoutPanel10 = new TableLayoutPanel();
+            panel15 = new Panel();
+            label14 = new Label();
+            cbnamhocdayhoc = new ComboBox();
+            panel14 = new Panel();
+            lbloihocky = new Label();
+            tableLayoutPanel9 = new TableLayoutPanel();
+            panel13 = new Panel();
+            label16 = new Label();
+            label12 = new Label();
+            cbhockydayhoc = new ComboBox();
+            tableLayoutPanel8 = new TableLayoutPanel();
+            panel11 = new Panel();
+            label10 = new Label();
+            cblopdayhoc = new ComboBox();
             lbloiTenGV = new Label();
             tableLayoutPanel1.SuspendLayout();
             panel1.SuspendLayout();
@@ -98,17 +98,9 @@
             tableLayoutPanel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvdayhoc).BeginInit();
             tableLayoutPanel3.SuspendLayout();
-            tableLayoutPanel10.SuspendLayout();
-            panel15.SuspendLayout();
-            tableLayoutPanel9.SuspendLayout();
-            panel13.SuspendLayout();
-            tableLayoutPanel8.SuspendLayout();
-            panel11.SuspendLayout();
+            panel7.SuspendLayout();
             tableLayoutPanel4.SuspendLayout();
             panel3.SuspendLayout();
-            panel7.SuspendLayout();
-            panel14.SuspendLayout();
-            panel16.SuspendLayout();
             tableLayoutPanel7.SuspendLayout();
             panel9.SuspendLayout();
             tableLayoutPanel6.SuspendLayout();
@@ -116,11 +108,19 @@
             panel8.SuspendLayout();
             tableLayoutPanel5.SuspendLayout();
             panel5.SuspendLayout();
+            panel4.SuspendLayout();
             tableLayoutPanel11.SuspendLayout();
             panel17.SuspendLayout();
             panel18.SuspendLayout();
             panel19.SuspendLayout();
-            panel4.SuspendLayout();
+            panel16.SuspendLayout();
+            tableLayoutPanel10.SuspendLayout();
+            panel15.SuspendLayout();
+            panel14.SuspendLayout();
+            tableLayoutPanel9.SuspendLayout();
+            panel13.SuspendLayout();
+            tableLayoutPanel8.SuspendLayout();
+            panel11.SuspendLayout();
             SuspendLayout();
             // 
             // label1
@@ -329,145 +329,24 @@
             tableLayoutPanel3.Size = new Size(317, 630);
             tableLayoutPanel3.TabIndex = 1;
             // 
-            // tableLayoutPanel10
+            // panel7
             // 
-            tableLayoutPanel10.ColumnCount = 2;
-            tableLayoutPanel10.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 32.79743F));
-            tableLayoutPanel10.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 67.2025757F));
-            tableLayoutPanel10.Controls.Add(panel15, 0, 0);
-            tableLayoutPanel10.Controls.Add(cbnamhocdayhoc, 1, 0);
-            tableLayoutPanel10.Location = new Point(3, 468);
-            tableLayoutPanel10.Name = "tableLayoutPanel10";
-            tableLayoutPanel10.RowCount = 1;
-            tableLayoutPanel10.RowStyles.Add(new RowStyle(SizeType.Percent, 100F));
-            tableLayoutPanel10.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
-            tableLayoutPanel10.Size = new Size(311, 39);
-            tableLayoutPanel10.TabIndex = 1;
+            panel7.Controls.Add(lbloilop);
+            panel7.Dock = DockStyle.Fill;
+            panel7.Location = new Point(3, 339);
+            panel7.Name = "panel7";
+            panel7.Size = new Size(311, 39);
+            panel7.TabIndex = 0;
             // 
-            // panel15
+            // lbloilop
             // 
-            panel15.Controls.Add(label14);
-            panel15.Dock = DockStyle.Fill;
-            panel15.Location = new Point(3, 3);
-            panel15.Name = "panel15";
-            panel15.Size = new Size(96, 33);
-            panel15.TabIndex = 0;
-            // 
-            // label14
-            // 
-            label14.AutoSize = true;
-            label14.Location = new Point(3, 3);
-            label14.Name = "label14";
-            label14.Size = new Size(69, 20);
-            label14.TabIndex = 0;
-            label14.Text = "Năm học";
-            // 
-            // cbnamhocdayhoc
-            // 
-            cbnamhocdayhoc.Dock = DockStyle.Fill;
-            cbnamhocdayhoc.FormattingEnabled = true;
-            cbnamhocdayhoc.Items.AddRange(new object[] { "2018-2019", "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "2024-2025", "2025-2026", "2026-2027", "2027-2028", "2028-2029", "2029-2030" });
-            cbnamhocdayhoc.Location = new Point(105, 3);
-            cbnamhocdayhoc.Name = "cbnamhocdayhoc";
-            cbnamhocdayhoc.Size = new Size(203, 28);
-            cbnamhocdayhoc.TabIndex = 1;
-            // 
-            // tableLayoutPanel9
-            // 
-            tableLayoutPanel9.ColumnCount = 2;
-            tableLayoutPanel9.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33.4405136F));
-            tableLayoutPanel9.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 66.55949F));
-            tableLayoutPanel9.Controls.Add(panel13, 0, 0);
-            tableLayoutPanel9.Controls.Add(cbhockydayhoc, 1, 0);
-            tableLayoutPanel9.Dock = DockStyle.Fill;
-            tableLayoutPanel9.Location = new Point(3, 384);
-            tableLayoutPanel9.Name = "tableLayoutPanel9";
-            tableLayoutPanel9.RowCount = 1;
-            tableLayoutPanel9.RowStyles.Add(new RowStyle(SizeType.Percent, 100F));
-            tableLayoutPanel9.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
-            tableLayoutPanel9.Size = new Size(311, 38);
-            tableLayoutPanel9.TabIndex = 1;
-            // 
-            // panel13
-            // 
-            panel13.Controls.Add(label16);
-            panel13.Controls.Add(label12);
-            panel13.Dock = DockStyle.Fill;
-            panel13.Location = new Point(3, 3);
-            panel13.Name = "panel13";
-            panel13.Size = new Size(98, 32);
-            panel13.TabIndex = 0;
-            // 
-            // label16
-            // 
-            label16.AutoSize = true;
-            label16.Location = new Point(3, 3);
-            label16.Name = "label16";
-            label16.Size = new Size(54, 20);
-            label16.TabIndex = 1;
-            label16.Text = "Học kỳ";
-            // 
-            // label12
-            // 
-            label12.AutoSize = true;
-            label12.Location = new Point(3, 5);
-            label12.Name = "label12";
-            label12.Size = new Size(13, 20);
-            label12.TabIndex = 0;
-            label12.Text = "`";
-            // 
-            // cbhockydayhoc
-            // 
-            cbhockydayhoc.Dock = DockStyle.Fill;
-            cbhockydayhoc.FormattingEnabled = true;
-            cbhockydayhoc.Items.AddRange(new object[] { "HK1", "HK2" });
-            cbhockydayhoc.Location = new Point(107, 3);
-            cbhockydayhoc.Name = "cbhockydayhoc";
-            cbhockydayhoc.Size = new Size(201, 28);
-            cbhockydayhoc.TabIndex = 1;
-            // 
-            // tableLayoutPanel8
-            // 
-            tableLayoutPanel8.ColumnCount = 2;
-            tableLayoutPanel8.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33.4405136F));
-            tableLayoutPanel8.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 66.55949F));
-            tableLayoutPanel8.Controls.Add(panel11, 0, 0);
-            tableLayoutPanel8.Controls.Add(cblopdayhoc, 1, 0);
-            tableLayoutPanel8.Location = new Point(3, 297);
-            tableLayoutPanel8.Name = "tableLayoutPanel8";
-            tableLayoutPanel8.RowCount = 1;
-            tableLayoutPanel8.RowStyles.Add(new RowStyle(SizeType.Percent, 100F));
-            tableLayoutPanel8.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
-            tableLayoutPanel8.Size = new Size(311, 35);
-            tableLayoutPanel8.TabIndex = 1;
-            // 
-            // panel11
-            // 
-            panel11.Controls.Add(label10);
-            panel11.Dock = DockStyle.Fill;
-            panel11.Location = new Point(3, 3);
-            panel11.Name = "panel11";
-            panel11.Size = new Size(98, 29);
-            panel11.TabIndex = 0;
-            // 
-            // label10
-            // 
-            label10.AutoSize = true;
-            label10.Location = new Point(3, 3);
-            label10.Name = "label10";
-            label10.Size = new Size(34, 20);
-            label10.TabIndex = 0;
-            label10.Text = "Lớp";
-            // 
-            // cblopdayhoc
-            // 
-            cblopdayhoc.Dock = DockStyle.Fill;
-            cblopdayhoc.FormattingEnabled = true;
-            cblopdayhoc.Items.AddRange(new object[] { "Học kỳ 1", "Học kỳ 2" });
-            cblopdayhoc.Location = new Point(107, 3);
-            cblopdayhoc.Name = "cblopdayhoc";
-            cblopdayhoc.Size = new Size(201, 28);
-            cblopdayhoc.TabIndex = 1;
+            lbloilop.AutoSize = true;
+            lbloilop.ForeColor = Color.Red;
+            lbloilop.Location = new Point(17, 6);
+            lbloilop.Name = "lbloilop";
+            lbloilop.Size = new Size(50, 20);
+            lbloilop.TabIndex = 0;
+            lbloilop.Text = "label9";
             // 
             // tableLayoutPanel4
             // 
@@ -512,62 +391,6 @@
             cbmamonhocdayhoc.Size = new Size(199, 28);
             cbmamonhocdayhoc.TabIndex = 1;
             cbmamonhocdayhoc.SelectedIndexChanged += cbmamonhocdayhoc_SelectedIndexChanged;
-            // 
-            // panel7
-            // 
-            panel7.Controls.Add(lbloilop);
-            panel7.Dock = DockStyle.Fill;
-            panel7.Location = new Point(3, 339);
-            panel7.Name = "panel7";
-            panel7.Size = new Size(311, 39);
-            panel7.TabIndex = 0;
-            // 
-            // lbloilop
-            // 
-            lbloilop.AutoSize = true;
-            lbloilop.ForeColor = Color.Red;
-            lbloilop.Location = new Point(17, 6);
-            lbloilop.Name = "lbloilop";
-            lbloilop.Size = new Size(50, 20);
-            lbloilop.TabIndex = 0;
-            lbloilop.Text = "label9";
-            // 
-            // panel14
-            // 
-            panel14.Controls.Add(lbloihocky);
-            panel14.Location = new Point(3, 428);
-            panel14.Name = "panel14";
-            panel14.Size = new Size(311, 34);
-            panel14.TabIndex = 8;
-            // 
-            // lbloihocky
-            // 
-            lbloihocky.AutoSize = true;
-            lbloihocky.ForeColor = Color.Red;
-            lbloihocky.Location = new Point(13, 6);
-            lbloihocky.Name = "lbloihocky";
-            lbloihocky.Size = new Size(58, 20);
-            lbloihocky.TabIndex = 0;
-            lbloihocky.Text = "label11";
-            // 
-            // panel16
-            // 
-            panel16.Controls.Add(lbloinamhoc);
-            panel16.Dock = DockStyle.Fill;
-            panel16.Location = new Point(3, 514);
-            panel16.Name = "panel16";
-            panel16.Size = new Size(311, 34);
-            panel16.TabIndex = 9;
-            // 
-            // lbloinamhoc
-            // 
-            lbloinamhoc.AutoSize = true;
-            lbloinamhoc.ForeColor = Color.Red;
-            lbloinamhoc.Location = new Point(13, 6);
-            lbloinamhoc.Name = "lbloinamhoc";
-            lbloinamhoc.Size = new Size(58, 20);
-            lbloinamhoc.TabIndex = 0;
-            lbloinamhoc.Text = "label13";
             // 
             // tableLayoutPanel7
             // 
@@ -725,6 +548,25 @@
             txttenmonhocdayhoc.Size = new Size(200, 27);
             txttenmonhocdayhoc.TabIndex = 1;
             // 
+            // panel4
+            // 
+            panel4.Controls.Add(lbloimagiaovien);
+            panel4.Dock = DockStyle.Fill;
+            panel4.Location = new Point(3, 159);
+            panel4.Name = "panel4";
+            panel4.Size = new Size(311, 27);
+            panel4.TabIndex = 10;
+            // 
+            // lbloimagiaovien
+            // 
+            lbloimagiaovien.AutoSize = true;
+            lbloimagiaovien.ForeColor = Color.Red;
+            lbloimagiaovien.Location = new Point(17, 6);
+            lbloimagiaovien.Name = "lbloimagiaovien";
+            lbloimagiaovien.Size = new Size(50, 20);
+            lbloimagiaovien.TabIndex = 0;
+            lbloimagiaovien.Text = "label7";
+            // 
             // tableLayoutPanel11
             // 
             tableLayoutPanel11.ColumnCount = 3;
@@ -799,24 +641,182 @@
             btnXoaDayHoc.UseVisualStyleBackColor = true;
             btnXoaDayHoc.Click += btnXoaDayHoc_Click;
             // 
-            // panel4
+            // panel16
             // 
-            panel4.Controls.Add(lbloimagiaovien);
-            panel4.Dock = DockStyle.Fill;
-            panel4.Location = new Point(3, 159);
-            panel4.Name = "panel4";
-            panel4.Size = new Size(311, 27);
-            panel4.TabIndex = 10;
+            panel16.Controls.Add(lbloinamhoc);
+            panel16.Dock = DockStyle.Fill;
+            panel16.Location = new Point(3, 514);
+            panel16.Name = "panel16";
+            panel16.Size = new Size(311, 34);
+            panel16.TabIndex = 9;
             // 
-            // lbloimagiaovien
+            // lbloinamhoc
             // 
-            lbloimagiaovien.AutoSize = true;
-            lbloimagiaovien.ForeColor = Color.Red;
-            lbloimagiaovien.Location = new Point(17, 6);
-            lbloimagiaovien.Name = "lbloimagiaovien";
-            lbloimagiaovien.Size = new Size(50, 20);
-            lbloimagiaovien.TabIndex = 0;
-            lbloimagiaovien.Text = "label7";
+            lbloinamhoc.AutoSize = true;
+            lbloinamhoc.ForeColor = Color.Red;
+            lbloinamhoc.Location = new Point(13, 6);
+            lbloinamhoc.Name = "lbloinamhoc";
+            lbloinamhoc.Size = new Size(58, 20);
+            lbloinamhoc.TabIndex = 0;
+            lbloinamhoc.Text = "label13";
+            // 
+            // tableLayoutPanel10
+            // 
+            tableLayoutPanel10.ColumnCount = 2;
+            tableLayoutPanel10.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 32.79743F));
+            tableLayoutPanel10.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 67.2025757F));
+            tableLayoutPanel10.Controls.Add(panel15, 0, 0);
+            tableLayoutPanel10.Controls.Add(cbnamhocdayhoc, 1, 0);
+            tableLayoutPanel10.Location = new Point(3, 468);
+            tableLayoutPanel10.Name = "tableLayoutPanel10";
+            tableLayoutPanel10.RowCount = 1;
+            tableLayoutPanel10.RowStyles.Add(new RowStyle(SizeType.Percent, 100F));
+            tableLayoutPanel10.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
+            tableLayoutPanel10.Size = new Size(311, 39);
+            tableLayoutPanel10.TabIndex = 1;
+            // 
+            // panel15
+            // 
+            panel15.Controls.Add(label14);
+            panel15.Dock = DockStyle.Fill;
+            panel15.Location = new Point(3, 3);
+            panel15.Name = "panel15";
+            panel15.Size = new Size(96, 33);
+            panel15.TabIndex = 0;
+            // 
+            // label14
+            // 
+            label14.AutoSize = true;
+            label14.Location = new Point(3, 3);
+            label14.Name = "label14";
+            label14.Size = new Size(69, 20);
+            label14.TabIndex = 0;
+            label14.Text = "Năm học";
+            // 
+            // cbnamhocdayhoc
+            // 
+            cbnamhocdayhoc.Dock = DockStyle.Fill;
+            cbnamhocdayhoc.FormattingEnabled = true;
+            cbnamhocdayhoc.Items.AddRange(new object[] { "2018-2019", "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024", "2024-2025", "2025-2026", "2026-2027", "2027-2028", "2028-2029", "2029-2030" });
+            cbnamhocdayhoc.Location = new Point(105, 3);
+            cbnamhocdayhoc.Name = "cbnamhocdayhoc";
+            cbnamhocdayhoc.Size = new Size(203, 28);
+            cbnamhocdayhoc.TabIndex = 1;
+            // 
+            // panel14
+            // 
+            panel14.Controls.Add(lbloihocky);
+            panel14.Location = new Point(3, 428);
+            panel14.Name = "panel14";
+            panel14.Size = new Size(311, 34);
+            panel14.TabIndex = 8;
+            // 
+            // lbloihocky
+            // 
+            lbloihocky.AutoSize = true;
+            lbloihocky.ForeColor = Color.Red;
+            lbloihocky.Location = new Point(13, 6);
+            lbloihocky.Name = "lbloihocky";
+            lbloihocky.Size = new Size(58, 20);
+            lbloihocky.TabIndex = 0;
+            lbloihocky.Text = "label11";
+            // 
+            // tableLayoutPanel9
+            // 
+            tableLayoutPanel9.ColumnCount = 2;
+            tableLayoutPanel9.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33.4405136F));
+            tableLayoutPanel9.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 66.55949F));
+            tableLayoutPanel9.Controls.Add(panel13, 0, 0);
+            tableLayoutPanel9.Controls.Add(cbhockydayhoc, 1, 0);
+            tableLayoutPanel9.Dock = DockStyle.Fill;
+            tableLayoutPanel9.Location = new Point(3, 384);
+            tableLayoutPanel9.Name = "tableLayoutPanel9";
+            tableLayoutPanel9.RowCount = 1;
+            tableLayoutPanel9.RowStyles.Add(new RowStyle(SizeType.Percent, 100F));
+            tableLayoutPanel9.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
+            tableLayoutPanel9.Size = new Size(311, 38);
+            tableLayoutPanel9.TabIndex = 1;
+            // 
+            // panel13
+            // 
+            panel13.Controls.Add(label16);
+            panel13.Controls.Add(label12);
+            panel13.Dock = DockStyle.Fill;
+            panel13.Location = new Point(3, 3);
+            panel13.Name = "panel13";
+            panel13.Size = new Size(98, 32);
+            panel13.TabIndex = 0;
+            // 
+            // label16
+            // 
+            label16.AutoSize = true;
+            label16.Location = new Point(3, 3);
+            label16.Name = "label16";
+            label16.Size = new Size(54, 20);
+            label16.TabIndex = 1;
+            label16.Text = "Học kỳ";
+            // 
+            // label12
+            // 
+            label12.AutoSize = true;
+            label12.Location = new Point(3, 5);
+            label12.Name = "label12";
+            label12.Size = new Size(13, 20);
+            label12.TabIndex = 0;
+            label12.Text = "`";
+            // 
+            // cbhockydayhoc
+            // 
+            cbhockydayhoc.Dock = DockStyle.Fill;
+            cbhockydayhoc.FormattingEnabled = true;
+            cbhockydayhoc.Items.AddRange(new object[] { "HK1", "HK2" });
+            cbhockydayhoc.Location = new Point(107, 3);
+            cbhockydayhoc.Name = "cbhockydayhoc";
+            cbhockydayhoc.Size = new Size(201, 28);
+            cbhockydayhoc.TabIndex = 1;
+            // 
+            // tableLayoutPanel8
+            // 
+            tableLayoutPanel8.ColumnCount = 2;
+            tableLayoutPanel8.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 33.4405136F));
+            tableLayoutPanel8.ColumnStyles.Add(new ColumnStyle(SizeType.Percent, 66.55949F));
+            tableLayoutPanel8.Controls.Add(panel11, 0, 0);
+            tableLayoutPanel8.Controls.Add(cblopdayhoc, 1, 0);
+            tableLayoutPanel8.Location = new Point(3, 297);
+            tableLayoutPanel8.Name = "tableLayoutPanel8";
+            tableLayoutPanel8.RowCount = 1;
+            tableLayoutPanel8.RowStyles.Add(new RowStyle(SizeType.Percent, 100F));
+            tableLayoutPanel8.RowStyles.Add(new RowStyle(SizeType.Absolute, 20F));
+            tableLayoutPanel8.Size = new Size(311, 35);
+            tableLayoutPanel8.TabIndex = 1;
+            // 
+            // panel11
+            // 
+            panel11.Controls.Add(label10);
+            panel11.Dock = DockStyle.Fill;
+            panel11.Location = new Point(3, 3);
+            panel11.Name = "panel11";
+            panel11.Size = new Size(98, 29);
+            panel11.TabIndex = 0;
+            // 
+            // label10
+            // 
+            label10.AutoSize = true;
+            label10.Location = new Point(3, 3);
+            label10.Name = "label10";
+            label10.Size = new Size(34, 20);
+            label10.TabIndex = 0;
+            label10.Text = "Lớp";
+            // 
+            // cblopdayhoc
+            // 
+            cblopdayhoc.Dock = DockStyle.Fill;
+            cblopdayhoc.FormattingEnabled = true;
+            cblopdayhoc.Items.AddRange(new object[] { "Học kỳ 1", "Học kỳ 2" });
+            cblopdayhoc.Location = new Point(107, 3);
+            cblopdayhoc.Name = "cblopdayhoc";
+            cblopdayhoc.Size = new Size(201, 28);
+            cblopdayhoc.TabIndex = 1;
             // 
             // lbloiTenGV
             // 
@@ -845,24 +845,11 @@
             ((System.ComponentModel.ISupportInitialize)dgvdayhoc).EndInit();
             tableLayoutPanel3.ResumeLayout(false);
             tableLayoutPanel3.PerformLayout();
-            tableLayoutPanel10.ResumeLayout(false);
-            panel15.ResumeLayout(false);
-            panel15.PerformLayout();
-            tableLayoutPanel9.ResumeLayout(false);
-            panel13.ResumeLayout(false);
-            panel13.PerformLayout();
-            tableLayoutPanel8.ResumeLayout(false);
-            panel11.ResumeLayout(false);
-            panel11.PerformLayout();
+            panel7.ResumeLayout(false);
+            panel7.PerformLayout();
             tableLayoutPanel4.ResumeLayout(false);
             panel3.ResumeLayout(false);
             panel3.PerformLayout();
-            panel7.ResumeLayout(false);
-            panel7.PerformLayout();
-            panel14.ResumeLayout(false);
-            panel14.PerformLayout();
-            panel16.ResumeLayout(false);
-            panel16.PerformLayout();
             tableLayoutPanel7.ResumeLayout(false);
             tableLayoutPanel7.PerformLayout();
             panel9.ResumeLayout(false);
@@ -876,12 +863,25 @@
             tableLayoutPanel5.PerformLayout();
             panel5.ResumeLayout(false);
             panel5.PerformLayout();
+            panel4.ResumeLayout(false);
+            panel4.PerformLayout();
             tableLayoutPanel11.ResumeLayout(false);
             panel17.ResumeLayout(false);
             panel18.ResumeLayout(false);
             panel19.ResumeLayout(false);
-            panel4.ResumeLayout(false);
-            panel4.PerformLayout();
+            panel16.ResumeLayout(false);
+            panel16.PerformLayout();
+            tableLayoutPanel10.ResumeLayout(false);
+            panel15.ResumeLayout(false);
+            panel15.PerformLayout();
+            panel14.ResumeLayout(false);
+            panel14.PerformLayout();
+            tableLayoutPanel9.ResumeLayout(false);
+            panel13.ResumeLayout(false);
+            panel13.PerformLayout();
+            tableLayoutPanel8.ResumeLayout(false);
+            panel11.ResumeLayout(false);
+            panel11.PerformLayout();
             ResumeLayout(false);
         }
 

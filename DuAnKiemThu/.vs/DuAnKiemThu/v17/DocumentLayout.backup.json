@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|d:\\tai_lieu_hoc_tap\\tai_lieu\\hoc_ky_7\\gd1_kiem_thu_va_dbclpm\\day git\\duankiemthu\\duankiemthu\\quanlydayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\quanlydayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\duankiemthu\\quanlydayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\quanlydayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\duankiemthu\\quanlygiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\quanlygiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|d:\\tai_lieu_hoc_tap\\tai_lieu\\hoc_ky_7\\gd1_kiem_thu_va_dbclpm\\day git\\duankiemthu\\duankiemthu\\daogiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\daogiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|d:\\tai_lieu_hoc_tap\\tai_lieu\\hoc_ky_7\\gd1_kiem_thu_va_dbclpm\\day git\\duankiemthu\\duankiemthu\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,20 +43,8 @@
       "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\quanlyhocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|d:\\tai_lieu_hoc_tap\\tai_lieu\\hoc_ky_7\\gd1_kiem_thu_va_dbclpm\\day git\\duankiemthu\\duankiemthu\\quanlydayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\quanlydayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\duankiemthu\\quanlydayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\quanlydayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|d:\\tai_lieu_hoc_tap\\tai_lieu\\hoc_ky_7\\gd1_kiem_thu_va_dbclpm\\day git\\duankiemthu\\duankiemthu\\quanlygiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\quanlygiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\duankiemthu\\quanlygiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\quanlygiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|d:\\tai_lieu_hoc_tap\\tai_lieu\\hoc_ky_7\\gd1_kiem_thu_va_dbclpm\\day git\\duankiemthu\\duankiemthu\\quanlylop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,10 +71,6 @@
       "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\daodayhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|d:\\tai_lieu_hoc_tap\\tai_lieu\\hoc_ky_7\\gd1_kiem_thu_va_dbclpm\\day git\\duankiemthu\\duankiemthu\\daogiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\daogiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|d:\\tai_lieu_hoc_tap\\tai_lieu\\hoc_ky_7\\gd1_kiem_thu_va_dbclpm\\day git\\duankiemthu\\duankiemthu\\daomonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80A2F968-9A4F-452B-ACE6-EC7FF5BA9569}|DuAnKiemThu\\DuAnKiemThu.csproj|solutionrelative:duankiemthu\\daomonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 227,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,56 +114,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "QuanLyMonHoc.cs",
-              "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyMonHoc.cs",
-              "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyMonHoc.cs",
-              "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyMonHoc.cs",
-              "RelativeToolTip": "DuAnKiemThu\\QuanLyMonHoc.cs",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAlwIAAAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "QuanLyDayHoc.cs",
+              "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyDayHoc.cs",
+              "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyDayHoc.cs",
+              "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyDayHoc.cs",
+              "RelativeToolTip": "DuAnKiemThu\\QuanLyDayHoc.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAIA5wGYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T20:10:35.546Z",
+              "WhenOpened": "2024-10-03T16:50:31.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "QuanLyGiaoVien.cs",
-              "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyGiaoVien.cs",
-              "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyGiaoVien.cs",
-              "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyGiaoVien.cs",
-              "RelativeToolTip": "DuAnKiemThu\\QuanLyGiaoVien.cs",
-              "ViewState": "AgIAABUBAAAAAAAAAAAqwA8BAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T15:33:11.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "QuanLyDayHoc.cs [Design]",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyDayHoc.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyDayHoc.cs",
               "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyDayHoc.cs [Design]",
               "RelativeToolTip": "DuAnKiemThu\\QuanLyDayHoc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T16:34:23.595Z"
+              "WhenOpened": "2024-10-03T16:34:23.595Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "QuanLyDayHoc.cs",
-              "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyDayHoc.cs",
-              "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyDayHoc.cs",
-              "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyDayHoc.cs",
-              "RelativeToolTip": "DuAnKiemThu\\QuanLyDayHoc.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAIAwwI0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T16:50:31.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DangKy.cs [Design]",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\DangKy.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\DangKy.cs",
@@ -175,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "DangKy.cs",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\DangKy.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\DangKy.cs",
@@ -188,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "QuanLyMonHoc.cs [Design]",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyMonHoc.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyMonHoc.cs",
@@ -199,7 +175,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "DAOGiaoVien.cs",
+              "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\DAOGiaoVien.cs",
+              "RelativeDocumentMoniker": "DuAnKiemThu\\DAOGiaoVien.cs",
+              "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\DAOGiaoVien.cs",
+              "RelativeToolTip": "DuAnKiemThu\\DAOGiaoVien.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawB4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T16:53:24.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuanLyGiaoVien.cs [Design]",
+              "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyGiaoVien.cs",
+              "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyGiaoVien.cs",
+              "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyGiaoVien.cs [Design]",
+              "RelativeToolTip": "DuAnKiemThu\\QuanLyGiaoVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:33:09.18Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuanLyGiaoVien.cs",
+              "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyGiaoVien.cs",
+              "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyGiaoVien.cs",
+              "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyGiaoVien.cs",
+              "RelativeToolTip": "DuAnKiemThu\\QuanLyGiaoVien.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAqwA8BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T15:33:11.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuanLyMonHoc.cs",
+              "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyMonHoc.cs",
+              "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyMonHoc.cs",
+              "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyMonHoc.cs",
+              "RelativeToolTip": "DuAnKiemThu\\QuanLyMonHoc.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAlwIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:10:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "QuanLyHocSinh.cs [Design]",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyHocSinh.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyHocSinh.cs",
@@ -210,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "QuanLyHocSinh.cs",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyHocSinh.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyHocSinh.cs",
@@ -222,18 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "QuanLyGiaoVien.cs [Design]",
-              "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyGiaoVien.cs",
-              "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyGiaoVien.cs",
-              "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyGiaoVien.cs [Design]",
-              "RelativeToolTip": "DuAnKiemThu\\QuanLyGiaoVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T15:33:09.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "QuanLyLop.cs",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyLop.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyLop.cs",
@@ -246,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "QuanLyLop.cs [Design]",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\QuanLyLop.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\QuanLyLop.cs",
@@ -257,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "NhapDiem.cs",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\NhapDiem.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\NhapDiem.cs",
@@ -270,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "DAONhapDiem.cs",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\DAONhapDiem.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\DAONhapDiem.cs",
@@ -282,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "NhapDiem.cs [Design]",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\NhapDiem.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\NhapDiem.cs",
@@ -318,18 +334,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "DAOGiaoVien.cs",
-              "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\DAOGiaoVien.cs",
-              "RelativeDocumentMoniker": "DuAnKiemThu\\DAOGiaoVien.cs",
-              "ToolTip": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\DAOGiaoVien.cs",
-              "RelativeToolTip": "DuAnKiemThu\\DAOGiaoVien.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAawB4AAABMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T16:53:24.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
               "Title": "DAODayHoc.cs",
               "DocumentMoniker": "D:\\Tai_Lieu_Hoc_Tap\\Tai_lieu\\Hoc_ky_7\\GD1_Kiem_thu_va_DBCLPM\\Day git\\DuAnKiemThu\\DuAnKiemThu\\DAODayHoc.cs",
               "RelativeDocumentMoniker": "DuAnKiemThu\\DAODayHoc.cs",

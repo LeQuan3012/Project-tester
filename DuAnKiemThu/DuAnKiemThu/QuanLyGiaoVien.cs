@@ -82,6 +82,17 @@ namespace DuAnKiemThu
             // Kết hợp các từ thành một chuỗi và trả về
             return string.Join(" ", words);
         }
+
+        private bool checkMaGV(string ma)
+        {
+            if(ma.Length <= 0)
+            {
+                lbloimagv.Text = "Mã giáo viên không được bỏ trống";
+                return false;
+            }
+            lbloimagv.Text = "";
+            return true;
+        }
         private bool checkHoTen(string hoTen)
         {
             if (hoTen.Length == 0)
@@ -89,16 +100,24 @@ namespace DuAnKiemThu
                 lbloitengv.Text = "Tên giáo viên không được bỏ trống";
                 return false;
             }
+            else if (System.Text.RegularExpressions.Regex.IsMatch(hoTen, @"\d"))
+            {
+                lbloitengv.Text = "Tên giáo viên không được chứa ký tự số."; // E3
+                return false;
+            }
+            // Kiểm tra nếu tên giáo viên chứa ký tự đặc biệt
             else if (System.Text.RegularExpressions.Regex.IsMatch(hoTen, @"[^a-zA-ZÀ-Ỹà-ỹ\s]"))
             {
-                lbloitengv.Text = "Tên giáo viên không được chứa số hoặc ký tự đặc biệt";
+                lbloitengv.Text = "Tên giáo viên không được chứa ký tự đặc biệt."; // E4
                 return false;
             }
             else
             {
+                // Nếu tên giáo viên hợp lệ
                 lbloitengv.Text = "";
                 return true;
             }
+            
         }
         private bool checkngaysinh(string ngay)
         {
@@ -190,26 +209,37 @@ namespace DuAnKiemThu
                 lbloisdtgv.Text = "Số điện thoại không được để rỗng";
                 return false;
             }
-            else if (sdt.Length > 10)
+            // Kiểm tra nếu độ dài số điện thoại khác 10 ký tự
+            else if (sdt.Length != 10)
             {
-                lbloisdtgv.Text = "Số điện thoại phải có 10 chữ số";
+                lbloisdtgv.Text = "Số điện thoại phải có 10 chữ số."; // E16
                 return false;
             }
-            else if (sdt.Length <= 9)
+
+            // Kiểm tra nếu số điện thoại chứa ký tự chữ hoặc ký tự đặc biệt
+            else if (!System.Text.RegularExpressions.Regex.IsMatch(sdt, @"^\d+$"))
             {
-                lbloisdtgv.Text = "Số điện thoại phải có 10 chữ số";
+                lbloisdtgv.Text = "Số điện thoại không được chứa ký tự chữ hoặc ký tự đặc biệt."; // E14, E15
                 return false;
             }
-            else if (!System.Text.RegularExpressions.Regex.IsMatch(sdt, @"^0\d{9}$"))
+
+            // Kiểm tra nếu số điện thoại không bắt đầu bằng số 0
+            else if (!sdt.StartsWith("0"))
             {
-                lbloisdtgv.Text = "Số điện thoại không được chứa chữ, ký tự đặc biệt và bắt đầu bằng số 0";
+                lbloisdtgv.Text = "Số điện thoại phải bắt đầu bằng số 0."; // E17
+                return false;
+            }
+            else if (giaovien.checkTrungSDT(sdt) > 0)
+            {
+                lbloidiachigv.Text = "Số điện thoại đã tồn tại";
                 return false;
             }
             else
             {
+                // Nếu số điện thoại hợp lệ
                 lbloisdtgv.Text = "";
                 return true;
-            }
+            }            
         }
 
         private bool checkGT(string gt)
@@ -227,6 +257,10 @@ namespace DuAnKiemThu
         {
             bool check = true;
             if (!checkHoTen(hoten))
+            {
+                check = false;
+            }
+            if (!checkMaGV(magv))
             {
                 check = false;
             }

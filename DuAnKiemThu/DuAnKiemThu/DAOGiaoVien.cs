@@ -35,6 +35,15 @@ namespace DuAnKiemThu
             return result;
         }
 
+        public int checkTrungSDT(string sdt)
+        {
+            db.moKN();
+            string sql = "select count(*) from GiaoVien where SDT = '"+sdt+"'";
+            SqlCommand cmd = new SqlCommand(sql, db.getConnection());
+            int resutl = (int)cmd.ExecuteScalar();
+            db.dongKN();
+            return resutl;
+        }
         public DataTable getAllMaGiaoVien(string chuyenmon)
         {
             db.moKN();
