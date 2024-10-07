@@ -145,11 +145,38 @@ namespace DuAnKiemThu
             lbloilop.Text = "";
             return true;
         }
-
-        public bool checkThem(string magv, string mamh, string hk, string namhoc, string malop)
+        private bool checkTenGV(string tengv)
+        {
+            // Kiểm tra nếu tên giáo viên bị trống
+            if (tengv.Length<=0)
+            {
+                lbloiTenGV.Text = ("Tên giáo viên không được bỏ trống.");
+                return false;
+            }
+            else if (tengv.Any(char.IsDigit))
+            {
+                lbloiTenGV.Text = ("Tên giáo viên không được chứa ký tự số.");
+                return false;
+            }
+            else if (tengv.Any(ch => !char.IsLetter(ch) && !char.IsWhiteSpace(ch)))
+            {
+                lbloiTenGV.Text = ("Tên giáo viên không được chứa ký tự đặc biệt.");
+                return false;
+            }
+            else
+            {
+                lbloiTenGV.Text = "";
+                return true;
+            }            
+        }
+        public bool checkThem(string magv, string tengv, string mamh, string hk, string namhoc, string malop)
         {
             bool check = true;
             if (!checkMaGV(magv))
+            {
+                check = false;
+            }
+            if (!checkMaGV(tengv))
             {
                 check = false;
             }
@@ -184,10 +211,11 @@ namespace DuAnKiemThu
         {
             string magv = cbmagvdayhoc.Text;
             string mamh = cbmamonhocdayhoc.Text;
+            string tengv = txttengvdayhoc.Text;
             string hk = cbhockydayhoc.Text;
             string namhoc = cbnamhocdayhoc.Text;
             string malop = cblopdayhoc.Text;
-            if(checkThem(magv, mamh, hk, namhoc, malop))
+            if(checkThem(magv,tengv, mamh, hk, namhoc, malop))
             {
                 if(dayhoc.insertDayHoc(magv, mamh, hk, namhoc, malop) > 0)
                 {
