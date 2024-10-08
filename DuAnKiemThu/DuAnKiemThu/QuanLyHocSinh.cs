@@ -104,6 +104,41 @@ namespace DuAnKiemThu
                 lbloimahs.Text = "Tên đăng nhập chưa chính xác";
                 return false;
             }
+            // Kiểm tra mã học sinh rỗng
+            if (string.IsNullOrWhiteSpace(ma))
+            {
+                lbloimahs.Text = "Mã học sinh không được bỏ trống";
+                return false;
+            }
+
+            // Kiểm tra độ dài mã học sinh phải là 10 ký tự
+            if (ma.Length != 10)
+            {
+                lbloimahs.Text = "Mã học sinh chỉ đúng 10 ký tự";
+                return false;
+            }
+
+            // Kiểm tra mã học sinh chứa ký tự đặc biệt
+            if (!System.Text.RegularExpressions.Regex.IsMatch(ma, @"^[A-Za-z0-9]+$"))
+            {
+                lbloimahs.Text = "Mã học sinh không được chứa ký tự đặc biệt. Ví dụ: @, #, %,space,...";
+                return false;
+            }
+
+            // Kiểm tra định dạng mã học sinh (ví dụ: HHHH123456)
+            if (!System.Text.RegularExpressions.Regex.IsMatch(ma, @"^[A-Za-z]{4}[0-9]{6}$"))
+            {
+                lbloimahs.Text = "Mã học sinh phải đúng định dạng. Ví dụ: HHHH123456";
+                return false;
+            }
+
+            // Kiểm tra mã học sinh đã tồn tại trong hệ thống
+            if (taikhoan.getTenDangNhap(ma) > 0)
+            {
+                lbloimahs.Text = "Mã học sinh đã tồn tại";
+                return false;
+            }
+
             lbloimahs.Text = "";
             return true;
         }
